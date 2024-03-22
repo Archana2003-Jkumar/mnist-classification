@@ -5,7 +5,7 @@
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
-
+Convolutional Deep Neural Network for Digit Classification
 ## Neural Network Model
 
 ![image](https://github.com/Archana2003-Jkumar/mnist-classification/assets/93427594/49efc8eb-075b-4f28-9662-4ce81f512ae6)
